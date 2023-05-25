@@ -1,0 +1,192 @@
+|----------------------------------------------|
+|------------ My Laravel Help Note ------------|
+|----------------------------------------------|
+
+
+***Laravel Some simple syntax{
+	Code{
+		1. @extends('')
+		2. @include('')
+		3. @csrf
+	}
+}
+
+***Laravel Password Protected {
+ 	password_hash($request -> password, PASSWORD_DEFAULT),
+}
+
+***Laravel Request Data Show
+	Process{
+		public function functionName(Request $request)
+			{
+				return $request -> all();
+			}
+	}
+
+***Laravel Registration system
+	Process{
+		1. First make Web Route for Registration form 
+		2. Make Blade for Registration Form Design
+		3. Make Controller for Registration Form 
+		4. 
+	}
+
+
+***Laravel Middleware system
+	Process{
+		1. Create a middleware file
+		2. Register Middleware to kemel.php file
+		3. Use on route file sech as : -> Middleware('admin');
+	}
+
+
+***Laravel Old Password Check & Password Confirmation
+	{
+		public function PasswordPage(Request $request)
+			{
+				// old password check
+				if( !password_verify( $request -> old_password , Auth::guard('patient') -> user() -> password ) ){
+					return back() -> with('danger', 'Old Password not match');
+				}
+
+				// password Confirmation
+				if( $request -> pass != $request -> pass_conform ){
+					return back() -> with('warning', 'password can not Confirm ');
+				}
+
+				// user login 
+				$data = patient::findOrFail(Auth::guard('patient') -> user() -> id);
+				$data -> update([
+					'password'  => Hash::make($request -> password)
+				]);
+				return back() -> with('success', 'Patient Password Change Success');
+				}
+		}
+
+
+***Laravel Notification system {
+	Process{
+		1. 
+	}
+}
+
+
+***Laravel Social Login {
+	Process {
+		1. 
+	}
+} 
+
+
+
+
+
+
+
+
+Laravel system Full Form meaning :-
+
+	1. @csrf {
+		c = Cross
+		s = Site 
+		r = Request 
+		f = Forgeries
+	}
+
+	2. MVC {
+		M = Model
+		V = View
+		C = Controller
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

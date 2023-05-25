@@ -1,0 +1,302 @@
+Laravel Roadmap :-
+------------------------
+
+1. Html
+2. CSS
+3. JavaScript
+4. PHP / OOP / Database ( SQL )
+5. Vue.js
+
+Laravel Core Topic :-
+------------------
+
+1. Routing
+2. Controller
+3. View
+4. Model
+5. Migrate
+6. Request
+7. Table
+8. Package
+9. Mail API
+
+
+
+
+
+
+
+laravel some package name list :-
+
+    1. Laravel User Verification
+    2. 
+
+
+Laravel some Project Idea :-
+
+    1. Laravel CRUD Application
+    2. School Management System
+    3. TO-DO List Application
+    4. Simple & Minimal E-Shop
+    5. Doctor Appointment Application
+    6. School/Job Attendance System
+    7. E-book Application
+    8. Employe Management Application
+    9. Online Examination System
+    10. News Application
+    11. Blog Application
+    12. Hospital Finder
+    13. Resturent Management System
+    14. Bus / Train Booking Application
+    15. Task Management
+    16. Job Portal Application
+    17. Social Networking Application
+    18. Forum Apllication
+    19. Quiz Application
+    20. Content Management System
+
+
+
+
+
+লারাভেল প্রজেক্ট আইডিয়া :
+
+        1. টাস্ক ম্যানেজার
+        2. ব্লগিং প্ল্যাটফর্ম
+        3. কন্টাক্ট ম্যানেজার
+        4. রেসিপি বই
+        5. URL শর্টেনার
+        6. ই-কমার্স স্টোর
+        7. ফোরাম বা আলোচনা বোর্ড
+        8. টু-ডু লিস্ট অ্যাপ্লিকেশন
+        9. জব বোর্ড
+        10. অনলাইন কুইজ সিস্টেম
+        11. গ্রাহক সম্পর্ক ব্যবস্থাপনা (CRM) সিস্টেম
+        12. ইভেন্ট ম্যানেজমেন্ট সিস্টেম
+        13. সোশ্যাল মিডিয়া ড্যাশবোর্ড
+        14. নিউজলেটার সাবস্ক্রিপশন সিস্টেম
+        15. ফাইল শেয়ারিং প্ল্যাটফর্ম
+        16. কনটেন্ট ম্যানেজমেন্ট সিস্টেম (সিএমএস)
+        17. খরচ ট্র্যাকার
+        18. নোট নেওয়া অ্যাপ্লিকেশন
+        19. পোলিং সিস্টেম
+        20. হোটেল রিজার্ভেশন সিস্টেম
+        21. ক্লাসিফাইড বিজ্ঞাপন প্ল্যাটফর্ম
+        22. অনলাইন অকশন প্ল্যাটফর্ম
+        23. ফিটনেস ট্র্যাকার
+        24. আবহাওয়া পূর্বাভাস অ্যাপ্লিকেশন
+    
+    
+
+
+
+
+
+Task Manager
+Blogging Platform
+Contact Manager
+Recipe Book
+URL Shortener
+E-commerce Store
+Forum or Discussion Board
+To-Do List Application
+Job Board
+Online Quiz System
+Customer Relationship Management (CRM) System
+Event Management System
+Social Media Dashboard
+Newsletter Subscription System
+File Sharing Platform
+Content Management System (CMS)
+Expense Tracker
+Note-Taking Application
+Polling System
+Hotel Reservation System
+Classified Ads Platform
+Online Auction Platform
+Fitness Tracker
+Weather Forecast Application
+Employee Attendance System
+Appointment Scheduler
+Real Estate Listings
+Online Resume Builder
+Bug Tracker
+Online Learning Management System
+Recipe Sharing Platform
+Project Collaboration Tool
+Feedback Collection System
+Blog Aggregator
+Photo Gallery
+Job Application Tracker
+Time Tracking Application
+Invoice Generator
+Stock Portfolio Tracker
+Music Playlist Manager
+Restaurant Ordering System
+Pet Adoption Platform
+Donation Management System
+Book Recommendation Website
+Expense Sharing App
+URL Bookmarking Tool
+Feedback Rating System
+Recipe Meal Planner
+Ticket Booking System
+Code Snippet Manager
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+কোর্স মডিউল :-----------------------
+
+লারাভেল ইন্সটলেশন
+লারাভেল কনফিগারেশন
+রাউটিং
+মিডলওয়্যার
+কন্ট্রোলার
+সিএসআরএফ প্রটেকশন
+রিকোয়েস্ট
+ভিউ
+সেশন
+এক্সেপশন (try catch, logging)
+মডেল
+ভ্যালিডেশন
+রেসপন্স
+ফ্রন্টএন্ড - ব্লেড টেম্পলেট
+ফ্রন্টএন্ড - ব্লেড ডিরেক্টিভ
+ফ্রন্টএন্ড - স্কাফফোল্ডিং
+ফ্রন্টএন্ড - ওয়েবপ্যাক এবং লারাভেল মিক্স
+সিকিউরিটি - অথেনটিকেশন
+সিকিউরিটি - এপিআই অথেনটিকেশন
+সিকিউরিটি - অথোরাইজেশন
+সিকিউরিটি - এনক্রিপশন
+সিকিউরিটি - হ্যাশিং
+অ্যাডভান্স - আরটিসান কনসোল
+অ্যাডভান্স - ব্রডকাস্টিং
+অ্যাডভান্স - ক্যাশিং
+অ্যাডভান্স - কালেকশন
+অ্যাডভান্স - ইভেন্ট
+অ্যাডভান্স - ফাইল স্টোরেজ
+অ্যাডভান্স - হেল্পার
+অ্যাডভান্স - মেইল
+অ্যাডভান্স - নোটিফিকেশন
+অ্যাডভান্স - কিউ
+অ্যাডভান্স - টাস্ক শিডিউলিং
+অ্যাডভান্স - প্রোভাইডার
+অ্যাডভান্স - প্যাকেজ ডেভেলপমেন্ট
+ডাটাবেজ - মাইগ্রেশন
+ডাটাবেজ - ফ্যাক্টরি
+ডাটাবেজ - সিডার
+ডাটাবেজ - টিংকার
+ডাটাবেজ - সিডিং
+ডাটাবেজ - কোয়্যারি বিল্ডার
+ডাটাবেজ - পেজিনেশন
+এলোকুয়েন্ট ওআরএম
+রিলেশনশিপস
+কালেকশনস
+মিউটেটরস
+এপিআই রিসোর্স
+সিরিয়ালাইজেশন
+লারাভেল ব্লগ ডেভেলপমেন্ট প্রজেক্ট মাস্টারিং
+লারাভেল ব্লগ ডেভেলপমেন্ট প্রজেক্ট ব্যাকেন্ড
+লারাভেল এইচআরএম প্রজেক্ট প্ল্যানিং
+লারাভেল এইচআরএম প্রজেক্ট মাস্টারিং
+লারাভেল এইচআরএম প্রজেক্ট ব্যাকেন্ড
+লারাভেল এইচআরএম প্রজেক্ট টেস্টিং
+লারাভেল এইচআরএম প্রজেক্ট ইন্সটলার সেটআপ
+কোডক্যানিয়ন এর জন্য এইচআরএম প্রজেক্ট রেডি করা
+কোডক্যানিয়ন এর জন্য ডকুমেন্টেশন
+এইচআরএম প্রজেক্ট এর ডেমো রেডি করা
+কোডক্যানিয়নে সাবমিশন
+রিঅ্যাক্ট জেএস পরিচিতি
+কেন লারাভেল এবং রিঅ্যাক্ট জেএস
+অন্যান্য ফ্রেমওয়ার্ক এর সাথে পার্থক্য
+জেকোয়্যারী এবং রিঅ্যাক্ট এর পার্থক্য
+প্রয়োজনীয় টুলস এবং সফটওয়্যার
+রিঅ্যাক্ট ইন্সটলেশন
+রিঅ্যাক্ট ফোল্ডার স্ট্রাকচার এবং ফাইল পরিচিতি
+রিঅ্যাক্ট ক্লাস কম্পোনেন্ট
+রিঅ্যাক্ট ফাংশনাল কম্পোনেন্ট
+রিঅ্যাক্ট ইভেন্ট
+অ্যারো ফাংশন
+রিঅ্যাক্ট প্রপ্স
+রিঅ্যাক্ট স্টেট
+রিঅ্যাক্টডম পরিচিতি
+রিঅ্যাক্ট এর মাধ্যমে ফর্ম নিয়ে কাজ করা
+রিঅ্যাক্ট এর মাধ্যমে ফর্ম ভ্যালিডেশন
+রিঅ্যাক্ট টেবিল
+রিঅ্যাক্ট লিস্ট
+রিঅ্যাক্ট হুক
+রিঅ্যাক্ট রাউটিং ব্যাসিক
+রিঅ্যাক্ট রাউটিং অ্যাডভান্স
+রিঅ্যাক্ট সিএসএস এবং সাস
+রিঅ্যাক্ট এইচটিটিপি রিকোয়েস্ট
+রিঅ্যাক্ট এক্সিওস
+রিঅ্যাক্ট কন্টেক্সট
+নেক্সট জেএস পরিচিতি
+নেক্সট জেএস ব্যাসিক রাউটিং
+নেক্সট জেএস এস ই ও প্রোপার্টি
+নেক্সট জেএস প্রিরেন্ডারিং
+নেক্সট জেএস অ্যাডভান্স রাউটিং
+এনভায়রনমেন্ট ভ্যারিয়েবল নিয়ে কাজ করা
+এপিআই রাউটিং
+নেক্সট জেএস ব্যবহার করে পূর্নাঙ্গ ফ্রন্ট এন্ড প্রজেক্ট
+লুমেন পরিচিতি
+লুমেন ব্যাসিক রাউটিং
+রেস্ট এপিআই পরিচিতি
+লুমেন এপিআই কন্ট্রোলার
+রিডিরেক্ট এবং ডাউনলোড রেসপন্স
+লুমেন এ ডাটাবেজ কানেক্ট করা
+লুমেন ব্যাসিক ক্রুড অপারেশন
+লুমেন কোয়্যারি বিল্ডার
+লুমেন এ ডাটাবেজ মাইগ্রেশন
+JWT ব্যাসিক
+JWT সম্পর্কে বিস্তারিত
+JWT এনকোড এবং ডিকোড
+নেক্সট জেএস অথেনটিকেশন
+নেক্সট জেএস ব্যাসিক প্রজেক্ট
+এনপিএম প্যাকেজ ডেভেলপমেন্ট
+রিঅ্যাক্ট ন্যাটিভ ব্যাসিক
+রিঅ্যাক্ট ন্যাটিভ এ এপিআইকানেক্ট করা
+লারাভেল এপিআই এর সাথে রিঅ্যাক্ট কানেক্ট করা
+লারাভেল এবং রিঅ্যাক্ট অথেনটিকেশন
+লারাভেল ব্যাকেন্ড এবং রিঅ্যাক্ট ফ্রন্টএন্ড ওয়েবসাইট প্রজেক্ট
+রিঅ্যাক্ট দিয়ে অ্যাডমিন প্যানেল এবং ফ্রন্টএন্ড ডায়নামিক করা
+লারাভেল এবং রিঅ্যাক্ট স্কুল ম্যানেজমেন্ট প্রজেক্ট
+কোডক্যানিয়নে লারাভেল এবং রিঅ্যাক্ট প্রজেক্ট সাবমিট করা
+কোডক্যানিয়নে শুধুমাত্র রিঅ্যাক্ট প্রজেক্ট সাবমিট করা
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
