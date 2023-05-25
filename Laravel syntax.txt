@@ -3,7 +3,7 @@
 |----------------------------------------------|
 
 
-***Laravel Some simple syntax{
+*** Laravel Some simple syntax{
 	Code{
 		1. @extends('')
 		2. @include('')
@@ -11,11 +11,11 @@
 	}
 }
 
-***Laravel Password Protected {
+*** Laravel Password Protected {
  	password_hash($request -> password, PASSWORD_DEFAULT),
 }
 
-***Laravel Request Data Show
+*** Laravel Request Data Show
 	Process{
 		public function functionName(Request $request)
 			{
@@ -23,16 +23,54 @@
 			}
 	}
 
-***Laravel Registration system
+*** Laravel Registration system
 	Process{
 		1. First make Web Route for Registration form 
 		2. Make Blade for Registration Form Design
 		3. Make Controller for Registration Form 
-		4. 
+		4. Than Make Model & Migration File & Config This File 
+	}
+
+*** Laravel Validate 
+	Process{
+		$this -> validate($request, [
+			'name'		=> 'required',
+			'email'		=> 'required',
+			'phone'		=> 'required',
+			'password'	=> 'required',
+		])
 	}
 
 
-***Laravel Middleware system
+*** Laravel Data store 
+	Process{
+		register::create([
+            'name'          => $request -> name,
+            'email'         => $request -> email,
+            'phone'         => $request -> phone,
+            'password'      => $request -> password,
+        ]);
+
+	}
+
+*** Laravel Model File 
+	Process{
+		use HasFactory;
+		// Config Code 
+		protected $table = 'registers';
+		protected $fillable = ['name','email','phone','password'];
+		protected $hidden = ['email','password'];
+		
+	}
+
+*** Laravel Error Show 
+	Process{
+		@if( $errors -> any() )
+			<p class="alert alert-danger">{{ $errors -> first() }}</p>
+		@endif
+	}
+
+*** Laravel Middleware system
 	Process{
 		1. Create a middleware file
 		2. Register Middleware to kemel.php file
@@ -40,7 +78,7 @@
 	}
 
 
-***Laravel Old Password Check & Password Confirmation
+*** Laravel Old Password Check & Password Confirmation
 	{
 		public function PasswordPage(Request $request)
 			{
@@ -64,14 +102,14 @@
 		}
 
 
-***Laravel Notification system {
+*** Laravel Notification system {
 	Process{
 		1. 
 	}
 }
 
 
-***Laravel Social Login {
+*** Laravel Social Login {
 	Process {
 		1. 
 	}
